@@ -39,7 +39,7 @@ const posts = (await getCollection('blog')).sort(
         <h2 class="section-title">Artigos Recentes</h2>
         <div class="posts-grid">
           {posts.map((post) => (
-            <a href={`/blog/${post.slug}`} class="post-card">
+            <a href={`/blog/${post.id}`} class="post-card">
               <div class="card-tag">IA & WhatsApp</div>
               <h3>{post.data.title}</h3>
               <p>{post.data.description}</p>
