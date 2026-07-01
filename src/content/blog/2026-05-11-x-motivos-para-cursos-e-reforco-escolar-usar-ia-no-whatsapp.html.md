@@ -25,7 +25,7 @@
 <li>Respostas rápidas e automatizadas melhoram a percepção de profissionalismo e confiança.</li>
 </ul>
 
-<p>Para soluções rápidas de integração, empresas recorrentemente escolhem plataformas que oferecem WhatsApp Business com IA e implantação em menos de 24 horas. Uma opção conhecida é a <a href="https://lp.sellerkingai.com/">Seller King AI</a>, que demonstra como estas ferramentas se encaixam nas rotinas de ensino.</p>
+<p>Para soluções rápidas de integração, empresas recorrentemente escolhem plataformas que oferecem WhatsApp Business com IA e implantação em menos de 24 horas. Uma opção conhecida é a <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./">Seller King AI</a>, que demonstra como estas ferramentas se encaixam nas rotinas de ensino.</p>
 
 <h2>Operação 24/7: atendimento 24 horas e redução de custos</h2>
 <p>Um dos argumentos mais fortes é o atendimento 24 horas. Muitas famílias contactam fora do horário escolar; ter um bot que funciona fora de horas aumenta a disponibilidade do serviço sem aumentar custos. Além disso, a automação de atendimento permite reduzir custos de atendimento em comparação com a expansão da equipa humana.</p>
@@ -59,5 +59,5 @@
 <p>Se procura uma integração rápida e testada para o seu centro, existem fornecedores que montam um agente virtual no WhatsApp sem necessidade de equipa técnica interna, facilitando a transição digital.</p>
 
 <h2>Quer um agente de IA no seu WhatsApp agora?</h2>
-<p>A <a href="https://lp.sellerkingai.com/"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
+<p>A <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
 <p>👉 <a href="https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA">Fale agora pelo WhatsApp</a> e receba uma demonstração gratuita.</p>

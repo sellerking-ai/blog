@@ -10,7 +10,7 @@
 <h2>Chatbot para WhatsApp e marcação automática via WhatsApp: fluxo prático</h2>
 <p>Um chatbot para WhatsApp bem desenhado orienta o paciente desde a primeira mensagem até à confirmação da consulta. A marcação automática via WhatsApp reduz erros de transcrição e integra-se com o calendário da clínica, libertando a secretária para casos que exigem atenção personalizada. Inclua opções de triagem simples (dor aguda, urgência, limpeza) para priorizar a agenda.</p>
 
-<p>Exemplo de fluxo: receção da mensagem → triagem automática → opção de marcação → confirmação com formulário pré-consulta → lembrete automático antes da consulta. Para clínicas que querem acelerar a implementação, a <a href="https://lp.sellerkingai.com/">Seller King AI</a> fornece agentes pré-configurados e exemplos de mensagens que funcionam com alto índice de conversão.</p>
+<p>Exemplo de fluxo: receção da mensagem → triagem automática → opção de marcação → confirmação com formulário pré-consulta → lembrete automático antes da consulta. Para clínicas que querem acelerar a implementação, a <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./">Seller King AI</a> fornece agentes pré-configurados e exemplos de mensagens que funcionam com alto índice de conversão.</p>
 
 <h2>Aumentar vendas com WhatsApp e IA para vendas em clínicas dentárias</h2>
 <p>Usar IA para vendas transforma conversas em oportunidades: desde propostas para tratamentos complementares até planos de pagamento. A automação de vendas permite enviar seguimentos personalizados a pacientes que demonstraram interesse, recuperar consultas pendentes e promover campanhas de higiene oral ou branqueamento com mensagens segmentadas.</p>
@@ -55,5 +55,5 @@
 <p>Ao escolher uma solução, procure fornecedores que entendam o setor da saúde, que ofereçam integrações com o sistema de gestão e que permitam adaptação do tom de comunicação para que o atendimento seja profissional e empático. A inteligência artificial para pequenas empresas deve facilitar processos, não complicá-los.</p>
 
 <h2>Quer um agente de IA no seu WhatsApp agora?</h2>
-<p>A <a href="https://lp.sellerkingai.com/"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
+<p>A <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
 <p>👉 <a href="https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA">Fale agora pelo WhatsApp</a> e receba uma demonstração gratuita.</p>

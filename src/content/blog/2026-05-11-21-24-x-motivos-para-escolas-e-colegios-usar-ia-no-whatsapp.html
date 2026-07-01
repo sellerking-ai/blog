@@ -28,7 +28,7 @@
 <li>Registo automático de presença em sessões e eventos.</li>
 </ul>
 
-<p>Para ver como se implementa rapidamente um agente com estas capacidades, conheça a <a href="https://lp.sellerkingai.com/">Seller King AI</a>, que oferece integração e configuração sem necessidade de equipa técnica interna.</p>
+<p>Para ver como se implementa rapidamente um agente com estas capacidades, conheça a <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./">Seller King AI</a>, que oferece integração e configuração sem necessidade de equipa técnica interna.</p>
 
 <h2>Aumentar vendas com WhatsApp e outras oportunidades para escolas</h2>
 <p>Embora o foco das escolas não seja a venda típica, muitas instituições beneficiam de IA para vendas ao promoverem cursos de verão, formações para empresas ou serviços pedagógicos. Um agente virtual no WhatsApp pode nutrir interesse, enviar brochuras digitais e concluir inscrições com pagamento integrado. Estas ações contribuem para aumentar vendas com WhatsApp de forma organizada e mensurável.</p>
@@ -59,5 +59,5 @@
 <p>Terminando, a adoção de inteligência artificial para pequenas empresas e organizações educativas transforma operações diárias e permite concentrar recursos humanos em actividades pedagógicas com maior impacto.</p>
 
 <h2>Quer um agente de IA no seu WhatsApp agora?</h2>
-<p>A <a href="https://lp.sellerkingai.com/"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
+<p>A <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
 <p>👉 <a href="https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA">Fale agora pelo WhatsApp</a> e receba uma demonstração gratuita.</p>

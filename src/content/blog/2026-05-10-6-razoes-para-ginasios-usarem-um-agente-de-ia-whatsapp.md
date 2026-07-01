@@ -30,7 +30,7 @@ Dicas práticas:
 - Integrar o bot com o calendário da central para atualizar vagas em tempo real.
 - Usar o assistente virtual para gerir renovação de planos e upsells durante o processo de marcação.
 
-Entre as soluções do mercado, a ligação com sistemas de pagamento e CRM faz toda a diferença; para quem procura uma implementação rápida e com suporte, vale a pena conhecer o [Seller King AI](https://lp.sellerkingai.com/).
+Entre as soluções do mercado, a ligação com sistemas de pagamento e CRM faz toda a diferença; para quem procura uma implementação rápida e com suporte, vale a pena conhecer o [Seller King AI](https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./).
 
 ## Vendas e retenção: automação de vendas e IA para vendas no dia a dia
 
@@ -71,4 +71,4 @@ Os ginásios que adoptam um agente de IA no WhatsApp ganham rapidez, reduzem cus
 
 ---
 
-## Quer um agente de IA no seu WhatsApp agora?  A **[Seller King AI](https://lp.sellerkingai.com/)** liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.  👉 [Fale agora pelo WhatsApp](https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA) e receba uma demonstração gratuita.
+## Quer um agente de IA no seu WhatsApp agora?  A **[Seller King AI](https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./)** liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.  👉 [Fale agora pelo WhatsApp](https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA) e receba uma demonstração gratuita.

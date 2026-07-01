@@ -26,7 +26,7 @@ pubDate: "2026-05-12T01:37:34.967Z"
 <li>Relatórios automáticos que ajudam a optimizar escalas da equipa.</li>
 </ul>
 
-<p>Em <a href="https://lp.sellerkingai.com/">Seller King AI</a> encontra-se uma solução que liga a clínica ao agente inteligente de forma rápida e com integração simples a sistemas de gestão clínica.</p>
+<p>Em <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./">Seller King AI</a> encontra-se uma solução que liga a clínica ao agente inteligente de forma rápida e com integração simples a sistemas de gestão clínica.</p>
 
 <h2>3. Marcação automática via WhatsApp: menos faltas, mais organização</h2>
 <p>A marcação automática via WhatsApp transforma a forma como se gere a agenda. Um atendente virtual ou assistente virtual pode verificar disponibilidade, propor horários e emitir confirmações, funcionando como uma secretária virtual digital. Para clínicas médicas, isto significa menos cancelamentos de última hora e melhor aproveitamento da agenda.</p>
@@ -65,5 +65,5 @@ pubDate: "2026-05-12T01:37:34.967Z"
 <p>Adotar um agente de IA no WhatsApp é uma oportunidade para clínicas médicas aumentarem eficiência, reduzir custos e oferecer um atendimento mais ágil. Com a escolha certa de fornecedor e uma fase piloto bem definida, os ganhos tornam-se visíveis em semanas.</p>
 
 <h2>Quer um agente de IA no seu WhatsApp agora?</h2>
-<p>A <a href="https://lp.sellerkingai.com/"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
+<p>A <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
 <p>👉 <a href="https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA">Fale agora pelo WhatsApp</a> e receba uma demonstração gratuita.</p>

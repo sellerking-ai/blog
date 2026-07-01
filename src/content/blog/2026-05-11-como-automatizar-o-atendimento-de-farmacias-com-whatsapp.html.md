@@ -16,7 +16,7 @@
 <h2>Processos-chave: marcação automática via WhatsApp e atendimento 24 horas</h2>
 <p>Automatizar marcações e consultas é uma das vitórias rápidas. Um sistema de marcação automática via WhatsApp permite confirmar horários, enviar lembretes e gerir cancelamentos sem intervenção humana. Para muitos estabelecimentos, a opção de atendimento 24 horas com um bot inteligente resolve dúvidas fora do horário de funcionamento e capta clientes que, de outra forma, procurariam alternativas.</p>
 
-<p>Integração prática com <a href="https://lp.sellerkingai.com/">Seller King AI</a> pode acelerar a implementação, ligando um agente de IA ao número da farmácia e sincronizando com agendas e inventário.</p>
+<p>Integração prática com <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./">Seller King AI</a> pode acelerar a implementação, ligando um agente de IA ao número da farmácia e sincronizando com agendas e inventário.</p>
 
 <h2>Métricas, IA para vendas e reduzir custos de atendimento</h2>
 <p>Mida indicadores como tempo médio de resposta, taxa de conversão de mensagens em vendas, e diminuição de contactos que exigem intervenção humana. A IA para vendas pode sugerir upsell de produtos complementares (ex.: após uma encomenda de xaropes sugerir termómetros). A automação de vendas e um agente de IA no WhatsApp bem configurado ajudam a reduzir custos de atendimento e a aumentar vendas com WhatsApp sem afectar a qualidade clínica.</p>
@@ -48,5 +48,5 @@
 <p>Implementação rápida: defina scripts, escolha um bot para empresas com integração ao sistema de gestão da farmácia, teste com um grupo reduzido de clientes e expanda gradualmente. Monitore feedback e ajuste a linguagem para manter um tom profissional e empático.</p>
 
 <h2>Quer um agente de IA no seu WhatsApp agora?</h2>
-<p>A <a href="https://lp.sellerkingai.com/"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
+<p>A <a href="https://https://wa.me/5537998014747?text=Ol%C3%A1%2C%20vim%20pelo%20blog%20da%20Eleve%20One%20e%20quero%20criar%20uma%20landing%20page%20profissional./"><strong>Seller King AI</strong></a> liga um agente inteligente ao seu WhatsApp em menos de 24 horas. Atendimento automático, marcações e mais vendas — sem precisar de equipa técnica.</p>
 <p>👉 <a href="https://wa.me/351926153388?text=Olá!%20Vim%20do%20blog%20e%20quero%20saber%20mais%20sobre%20o%20agente%20de%20IA">Fale agora pelo WhatsApp</a> e receba uma demonstração gratuita.</p>
